@@ -1,0 +1,20 @@
+#myheading{background-color: red;
+    padding: 50px 100px 50px 600px;
+    FONT-FAMILY: CURSIVE;
+    FONT-WEIGHT: revert;
+    margin: 100px; 
+    border-right : 30px solid rgb(0, 0, 0);
+    border-left  : 30px solid gold;
+    border-radius: 80px;
+}
+        .myheading2{background-color: green;
+            display: inline;
+        }
+        .myimage{
+            width: 315px;
+        }
+        .mydiv{background-color: rgb(0, 157, 255);
+         color: white;
+         display: grid;}
+
+
